@@ -144,18 +144,22 @@ section {
   padding: 100px 20px;
 }
 
+section {
+  color: #333;
+}
+
 #home {
-  background: linear-gradient(to right, #0f2027, #203a43, #2c5364);
+  background: #FDECEF;
 }
 
 #about {
-  background: #1e1e1e;
+  background: #E8F6F3;
 }
 
 #portfolio {
-  background: #111827;
+  background: #FFF5E4;
 }
 
 #contact {
-  background: #0f172a;
+  background: #EAF0FF;
 }
