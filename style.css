@@ -139,14 +139,23 @@ section p {
   color: #ccc;
 }
 
+section {
+  min-height: 100vh;
+  padding: 100px 20px;
+}
+
+#home {
+  background: linear-gradient(to right, #0f2027, #203a43, #2c5364);
+}
+
 #about {
-  background: #111;
+  background: #1e1e1e;
 }
 
 #portfolio {
-  background: #1a1a1a;
+  background: #111827;
 }
 
 #contact {
-  background: #111;
+  background: #0f172a;
 }
