@@ -253,8 +253,8 @@ section {
 
 #home {
   min-height: 100vh;
-  background: linear-gradient(135deg, #fff3f6, #ffd8e2, #ffbccd);
-  color: #333;
+  background: linear-gradient(135deg, #f8cdda, #e89ab2, #d67fa6);
+  color: white;
 }
 
 #about {
@@ -266,7 +266,7 @@ section {
 }
 
 #about {
-  background: linear-gradient(135deg, #f5fff7, #dfffe9, #cfffdd);
+  background: linear-gradient(135deg, #e8fdf5, #c8f7e4, #a6f0d2);
   color: #333;
 }
 
@@ -281,7 +281,7 @@ section {
 }
 
 #portfolio {
-  background: linear-gradient(135deg, #fffdf0, #fff7d9, #fff1bb);
+  background: linear-gradient(135deg, #fff4cc, #ffe699, #ffd966);
   color: #333;
 }
 
@@ -292,7 +292,7 @@ section {
 }
 
 #contact {
-  background: linear-gradient(135deg, #f0f9ff, #d6ebff, #b7dbff);
+  background: linear-gradient(135deg, #eef7ff, #dbeeff, #c7e4ff);
   color: #333;
 }
 
